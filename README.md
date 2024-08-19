@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mabilia357
+- 👀 I’m interested in data science!
+- 🌱 I’m currently learning data Science, with SQL and Python!
+- 😎 I'm from Brazil!
+- 💻 let´s go!
